@@ -5,7 +5,6 @@ function writeCards(names,events) {
     }
     return thankYouList;
     }
-    
     function countDown() {
     let countDown = 10
     while (countDown <= 10,countDown >= 0) {
